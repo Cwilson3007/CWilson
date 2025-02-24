@@ -54,4 +54,4 @@ CompTIA Cybersecurity Analyst (CySA+)
 
 📩 Get in Touch
 
-If you're interested feel free to reach out!📧 Email: Cwilson3007@gmail.com🔗 LinkedIn: www.linkedin.com/in/cwilson3007 🌍 Website/GitHub: [Your GitHub Profile
+If you're interested feel free to reach out!📧 Email: Cwilson3007@gmail.com🔗 LinkedIn: www.linkedin.com/in/cwilson3007 🌍 Website/GitHub: https://github.com/Cwilson3007/CWilson
