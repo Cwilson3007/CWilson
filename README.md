@@ -17,11 +17,12 @@ Hello! I’m Courtney Wilson, a cybersecurity enthusiast currently pursuing a Ma
 
 🔹 Network Intrusion Detection with Suricata
 
-Set up Suricata IDS/IPS to detect malicious traffic.
+Set up Suricata IDS to detect malicious traffic.
 
 Created custom rules to identify Nmap scans & exploits.
 
 Used Evebox & Kibana to analyze logs and improve detection.
+
 
 🔹 Web Application Threat Modeling & Vulnerability Scanning
 
