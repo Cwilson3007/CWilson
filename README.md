@@ -40,7 +40,7 @@ Identified & exploited SQL injection, XSS, and IDOR.
 | Incident Response        | Wireshark, Zeek, Volatility       |
 | SIEM & Log Analysis      | Elastic Stack, Splunk, Graylog    |
 | Digital Forensics        | Autopsy, FTK Imager, Magnet AXIOM |
-| IDS/IPS & Threat Hunting | Suricata, Snort, Zeek             |
+| IDS & Threat Hunting     | Suricata, Snort, Zeek             |
 | Vulnerability Scanning   | OWASP ZAP, Nikto, Nessus          |
 | Scripting & Automation   | Python, Bash                      |
 
