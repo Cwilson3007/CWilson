@@ -15,6 +15,7 @@ Hello! I’m Courtney Wilson, a cybersecurity enthusiast currently pursuing a Ma
 
 🚀 Below are some of my cybersecurity projects showcasing my skills in threat detection, forensic analysis, and security engineering.
 
+### Finished
 🔹 Network Intrusion Detection with Suricata
 
 Set up Suricata IDS to detect malicious traffic.
@@ -23,6 +24,8 @@ Created custom rules to identify Nmap scans & exploits.
 
 Used Evebox & Kibana to analyze logs and improve detection.
 
+
+### Ongoing Projects
 
 🔹 Web Application Threat Modeling & Vulnerability Scanning
 
