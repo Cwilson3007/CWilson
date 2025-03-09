@@ -24,9 +24,12 @@ Created custom rules to identify Nmap scans & exploits.
 
 Used Evebox & Kibana to analyze logs and improve detection.
 
-🐠 Phishing Email Investigation (Online Tools) 🔎
+🔹Phishing Email Investigation (Online Tools) 🔎
+
 A concise, web-based analysis of a phishing email (titled “Confirmation receipt ID_66972”).
+
 Demonstrates how to manually review and flag a suspicious email as malicious in PhishTool, 
+
 plus a CAPE Sandbox check via VirusTotal, including an exported HTML report with detailed malicious indicators.
 
 
