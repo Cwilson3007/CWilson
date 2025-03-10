@@ -32,6 +32,11 @@ Demonstrates how to manually review and flag a suspicious email as malicious in 
 
 plus a CAPE Sandbox check via VirusTotal, including an exported HTML report with detailed malicious indicators.
 
+🔹SOC Log Analysis & Threat Hunting in Graylog
+
+This project showcases log analysis and threat hunting using Graylog, an open-source SIEM alternative to Splunk. 
+The focus is on monitoring authentication logs, detecting security anomalies, 
+and visualizing insights via dashboards.
 
 ### Ongoing Projects
 
