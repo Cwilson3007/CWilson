@@ -40,14 +40,10 @@ and visualizing insights via dashboards.
 
 ### Ongoing Projects
 
-🔹 Web Application Threat Modeling & Vulnerability Scanning
-
-Deployed DVWA & OWASP Juice Shop for security assessment.
-
-Used OWASP ZAP & Nikto to scan for vulnerabilities.
-
-Identified & exploited SQL injection, XSS, and IDOR.
-
+🔹 DFIR-SimulatedNationStateAttack
+This project simulates a sophisticated nation-state sponsored supply chain attack and the subsequent digital forensics 
+and incident response (DFIR) investigation. Designed as a portfolio piece for a GitHub repository, the project demonstrates 
+advanced cybersecurity skills in attack simulation, forensic analysis, threat hunting, and remediation within a controlled lab environment.
 
 ## **🔧 Skills & Tools**
 
