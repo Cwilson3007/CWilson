@@ -40,7 +40,7 @@ and visualizing insights via dashboards.
 
 ### Ongoing Projects
 
-🔹 DFIR-SimulatedNationStateAttack
+🔹 DFIR-Simulated Nation State Attack
 
 This project simulates a sophisticated nation-state sponsored supply chain attack and the subsequent digital forensics 
 and incident response (DFIR) investigation. Designed as a portfolio piece for a GitHub repository, the project demonstrates 
